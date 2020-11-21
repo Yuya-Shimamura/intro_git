@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 .git status
 .gif diff
 .git commit --amend
+conflict
