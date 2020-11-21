@@ -9,3 +9,4 @@ Gitの練習をしていきます。
 .got merge
 conflict
 pull request
+GitHub Flow
