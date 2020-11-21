@@ -7,4 +7,4 @@ Gitの練習をしていきます。
 .gif diff
 .git commit --amend
 .got merge
-コンフリクト
+conflict
